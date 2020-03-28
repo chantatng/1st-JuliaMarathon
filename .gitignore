@@ -6,8 +6,12 @@ Notes/Ch1 Introduction of JuliaLang/D002_Markdown_and_LaTeX.pdf
 Notes/Ch1 Introduction of JuliaLang/Day_002_example.ipynb
 Notes/Ch1 Introduction of JuliaLang/hello_julia.jl
 Notes/Ch1 Introduction of JuliaLang/julia_001_example.ipynb
-Homework/.ipynb_checkpoints/Day_003_hw-checkpoint.ipynb
 Notes/Ch1 Introduction of JuliaLang/D003_Package_Management.pdf
 Notes/Ch1 Introduction of JuliaLang/Day_003_example.ipynb
+<<<<<<< HEAD
 Notes/Ch1 Introduction of JuliaLang/Day_001_example.ipynb
 Notes/Ch1 Introduction of JuliaLang/.ipynb_checkpoints/Day_001_example-checkpoint.ipynb
+=======
+Homework/.ipynb_checkpoints/Day_002_hw-checkpoint.ipynb
+Homework/.ipynb_checkpoints/Day_003_hw-checkpoint.ipynb
+>>>>>>> 85f1d9ea0b041637129e769b44e4e0fb9f50c020
